@@ -1,0 +1,9 @@
+{
+	"name": "adfprojaish",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6c9e375-2814-4b9b-8a2a-6900828631a8",
+		"tenantId": "a10b58f9-3099-4e9b-b05f-7b2079533a38"
+	}
+}

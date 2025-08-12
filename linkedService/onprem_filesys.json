@@ -1,0 +1,17 @@
+{
+	"name": "onprem_filesys",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Files",
+			"userId": "ayeshashaik242@gmail.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4YjE2MGQ5Ny1jMTlhLTRlNzQtYTA3OS0zM2ViY2Q2MDZhM2UiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "aishaselfhosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

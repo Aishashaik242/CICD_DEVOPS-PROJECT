@@ -1,0 +1,6 @@
+{
+	"name": "aishaselfhosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
